@@ -8,7 +8,7 @@
   ],
   "main": "chart-elements.html",
   "dependencies": {
-    "polymer": "Polymer/polymer#^0.5.5",
+    "polymer": "Polymer/polymer#~1.1.1",
     "chartjs": "^1.0.2"
   }
 }
